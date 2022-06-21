@@ -1,10 +1,10 @@
-## 👋 Hi all, I’m Tuan, a developer based in Atlanta GA
+## 👋 Hi all, I’m Tuan, working as software engineer II at LexisNexis Risk Solutions Group.
 
 
 ### I am passionate in problem solving and building web applications
 - 🕵️‍♂️ Currently looking for fresh gruaduate roles in Software Engineering fields.
-- 🔥 Recently graduated from Software Engineer Career Track at Springboard bootcamp 
-- 🌱 Currently learning PHP, C++ and grinding on Data Structures & Algorithms.
+- 🔥 Graduated from Software Engineer Career Track at Springboard bootcamp, and had a Bachelor of Science in CS from Georgia State University.
+- 🌱 Currently learning Azure Fundamentals, React/Flask, system design.
 - 🤗 Hobbies: movies, hiking and video games (League of Legends fan)
 
 ### Let's connect:

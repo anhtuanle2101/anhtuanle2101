@@ -2,7 +2,7 @@
 
 
 ### I am passionate in problem solving and building web applications
-- 🕵️‍♂️ Currently looking for fresh gruaduate roles in Software Engineering fields.
+- 🕵️‍♂️ Currently looking for cooperating on projects.
 - 🔥 Graduated from Software Engineer Career Track at Springboard bootcamp, and had a Bachelor of Science in CS from Georgia State University.
 - 🌱 Currently learning Azure Fundamentals, React/Flask, system design.
 - 🤗 Hobbies: movies, hiking and video games (League of Legends fan)
